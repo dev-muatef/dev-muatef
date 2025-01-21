@@ -116,7 +116,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-muatef&show_icons=true&locale=en&theme=radical" alt="dev-muatef Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-muatef&theme=radical" alt="dev-muatef Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-muatef&" alt="dev-muatef Streak" />
 </p>
 
 <p align="center">
