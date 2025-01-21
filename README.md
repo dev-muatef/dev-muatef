@@ -1,4 +1,7 @@
-[![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)](https://rishavchanda.io)
+<a href="https://rishavchanda.io" target="_blank">
+  <img src="https://propulsive.in/assets/img/service-icon/web.gif" alt="MasterHead" style="display: block; animation: none;">
+</a>
+
 <h1 align="center">Hello There 👋, I'm Mohamed Atef</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 <img align="right" loop=infinite alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
