@@ -39,11 +39,11 @@ I am committed to providing innovative, reliable, and impactful solutions that d
 
 # 💻 Tech Stack:
 
-## Software Fundamentals
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%23007ACC.svg?style=for-the-badge&logo=lightbulb&logoColor=white) 
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%23007ACC.svg?style=for-the-badge&logo=network&logoColor=white) 
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%23007ACC.svg?style=for-the-badge&logo=code&logoColor=white) 
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-%2300599C.svg?style=for-the-badge&logo=windows&logoColor=white) 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%23007ACC.svg?style=for-the-badge&logo=code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
