@@ -26,13 +26,11 @@
 <div align="left">
 
 ## 🤷‍♂️ About Me:
-Hi, I’m 𝐌𝐚𝐡𝐢𝐝 𝐌𝐮𝐧𝐧𝐚, a Bangladesh's dedicated WordPress designer and web developer. With 3 years of practical
-experience, I love building custom websites that don’t just look great but also work smoothly and efficiently.
-I’m all about delivering high-quality results that meet and exceed client expectations. I focus on understanding each
-project’s unique needs, ensuring that every website I create aligns perfectly with my client’s vision. Whether you’re a
-startup looking to establish an online presence or an established business wanting a fresh look, I’m here to offer
-solutions that make a difference.
+Hi everyone, I’m Mohamed Atef, a passionate Software Engineer and Full Stack Web Developer specializing in Angular and C# Technologies. Based in Egypt, I graduated with a Very Good degree from the Faculty of Systems and Computer Engineering at Al-Azhar University in 2024. Currently, I am a Trainee at the Information Technology Institute (ITI), where I am undergoing a 9-month Professional Training Camp in Professional Web Development & BI-infused CRM. This program has further enhanced my skills in software development, problem-solving, and building scalable web applications.
 
+With over 1 year of hands-on experience, I specialize in creating professional, efficient, and user-friendly websites using Angular and ASP.NET. My mission is to deliver high-quality solutions that not only meet but exceed client expectations. I take pride in understanding the unique needs of each project, ensuring that every website I develop aligns perfectly with the client’s vision and business goals.
+
+I am committed to providing innovative, reliable, and impactful solutions that drive success. Let’s collaborate to bring your ideas to life and create something extraordinary!
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmuatef@gmail.com)
