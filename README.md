@@ -36,7 +36,8 @@ I am committed to providing innovative, reliable, and impactful solutions that d
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmuatef@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hamo.atef.963)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muatef)
-[![Codeforces](https://stats.codeforces_stats.svg?style=for-the-badge&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/Muhamed-Atef)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%230077B5.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/muhamed-atef)
+
 
 # 💻 Tech Stack:
 
